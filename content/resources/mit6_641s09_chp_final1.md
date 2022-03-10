@@ -8,4 +8,8 @@ ocw_type: OCWFile
 resourcetype: Document
 title: Final Exam
 uid: 1e2ec97a-0c2e-288e-bc02-21096593c70e
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

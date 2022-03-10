@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Formula Sheet - Spring 2009
 uid: 63d0b79d-feb1-f184-cd00-1ccd0727f6be
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

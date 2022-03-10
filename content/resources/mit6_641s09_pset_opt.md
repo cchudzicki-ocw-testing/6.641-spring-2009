@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Additional Problems
 uid: b1a23fb8-22b5-35da-b64d-8140fe944370
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

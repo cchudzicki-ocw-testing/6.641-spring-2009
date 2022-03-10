@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 4ab8ada8-331e-24e5-a25e-1d01626f6d06
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Formula sheets for problem sets 4 and 5 can be found in the {{% resource_link 528b24c6-df44-6e33-c6db-3354e9fda743 "exams" %}} section. The additional problems are available for extra practice.

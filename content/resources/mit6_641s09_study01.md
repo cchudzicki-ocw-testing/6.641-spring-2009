@@ -14,4 +14,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Formula Sheet #1'
 uid: 9e74b72f-077e-ccdf-d3c5-4fa797434ded
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

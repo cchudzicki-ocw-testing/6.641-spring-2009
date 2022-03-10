@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Notes
 uid: dda578c4-8b9d-5d90-3bed-c932f0409540
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Topics L16 and L17 were not covered in 2009, but are included here for completeness.

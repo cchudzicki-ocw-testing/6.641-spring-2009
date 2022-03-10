@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Problem Set 5 - Solutions
 uid: 24893cf5-72d8-f187-e765-a4d9e5d38048
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

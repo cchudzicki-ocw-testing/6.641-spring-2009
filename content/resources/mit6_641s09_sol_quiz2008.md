@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Quiz 1 - Solutions - Spring 2008
 uid: 9d268122-293f-688c-f3ce-9c67001290b4
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

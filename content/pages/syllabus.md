@@ -4,6 +4,10 @@ learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
 uid: 4dd08286-02a1-13bc-9dad-c84194044910
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 ### Course Introduction by Prof. Markus Zahn

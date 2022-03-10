@@ -5,6 +5,10 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Exams
 uid: 528b24c6-df44-6e33-c6db-3354e9fda743
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 This section contains all exams and solutions for multiple years. [Formula sheets](#Formula_Sheets) for the exams are available below.

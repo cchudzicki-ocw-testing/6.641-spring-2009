@@ -12,4 +12,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Formula Sheet
 uid: 34b2022a-1379-8d7d-782d-30f8454f5520
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---

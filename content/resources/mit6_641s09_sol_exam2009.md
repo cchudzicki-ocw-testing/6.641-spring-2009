@@ -11,4 +11,8 @@ parent_type: CourseSection
 resourcetype: Document
 title: Final - Solutions - Spring 2009
 uid: b5b8630c-04de-67d4-e17e-0582b417ae55
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
