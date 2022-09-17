@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides exams and solutions for multiple years of the course
+  along with formula sheets and review packets.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
